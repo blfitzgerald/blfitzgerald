@@ -7,6 +7,6 @@ permalink: /research/
 Research:
 
 
-![SLAM](assets/images/SLAM.jpg)
+![SLAM](assets/images/SLAM.JPG)
 
-![Results](assets/images/Results.jpg)
+![Results](assets/images/Results.JPG)
