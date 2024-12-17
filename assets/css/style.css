@@ -1,17 +1,16 @@
 .about-content {
-  display: flex;           /* Enable flexbox layout */
-  align-items: flex-start; /* Align the items to the top (optional, for vertical alignment) */
-  gap: 20px;               /* Add some space between the image and text */
+  display: flex;
+  align-items: center;
+  gap: 20px; /* Adjust spacing between the image and the text */
 }
 
 .about-image img {
   width: 150px; /* Shrink the image size */
-  height: auto; /* Maintain aspect ratio */
+  height: auto;
   border-radius: 8px; /* Optional: round the corners of the image */
 }
 
 .about-text {
   flex: 1; /* Allow the text to take up the remaining space */
 }
-
 
