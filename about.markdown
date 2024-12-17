@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="about-content">
   <div class="about-image">
-    <img src="/assets/images/headshot.jpg" alt="About Photo">
+    <img src="/assets/images/headshot.jpg" alt="About Photo" style="width: 150px; height: auto; border-radius: 8px;">
   </div>
   <div class="about-text">
     <p>Welcome! I'm glad you're here.</p>
