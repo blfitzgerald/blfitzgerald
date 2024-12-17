@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "AGU 2024"
+date:   2024-12-16 22:06:03 -0600
+categories: jekyll update
+---
+
+Last week, I had the incredible opportunity to attend the American Geophysical Union (AGU) conference in Washington, D.C. It was an enriching experience, not only for the vast amount of scientific knowledge shared but also for the invaluable networking opportunities it provided.
+
+A highlight of the conference was connecting with colleagues working on FEMA's Future of Flood Risk Data project. I had the chance to engage with experts from FEMA, the Army Corps of Engineers, the University of North Carolina, and Dewberry, among others. It was great to be in the same room to discuss how we can tackle many of the challenges still ahead of us. It was great to see that my work on stochastic storm transposition can play a crucial role in shaping future risk assessments.
+
+Additionally, meeting everyone else in the field who are interested in stochastic storm transposition was a great opportunity to exchange ideas, discuss ongoing challenges, and explore potential collaborations.
+
+The conference left me feeling motivated and excited about the future of flood risk science and the potential for continued collaboration across different sectors. Looking forward to what’s next!
