@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex-shrink: 0;">
-    <img src='/assets/images/your-image.jpg' alt="About Photo" style="width: 150px; height: auto; border-radius: 8px;">
+    <img src='/assets/images/headshot.jpg' alt="About Photo" style="width: 150px; height: auto; border-radius: 8px;">
   </div>
   <div>
     <p>Welcome! I'm glad you're here.</p>
