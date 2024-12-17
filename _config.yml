@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site (if it's hosted in a subfolder)
 url: "https://blfitzgerald.github.io" # the base hostname (GitHub Pages URL)
 
 # Build settings
-theme: minimal # Default Jekyll theme
+theme: jekyll-theme-minimal # Default Jekyll theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
