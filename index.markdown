@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 50px;">
   <div style="flex-shrink: 0;">
     <img src='/assets/images/headshot.jpg' alt="About Photo" style="width: 150px; height: auto; border-radius: 8px;">
   </div>
